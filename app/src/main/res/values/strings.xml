@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">User_Location</string>
+    <string name="title_activity_location">Location</string>
+</resources>
